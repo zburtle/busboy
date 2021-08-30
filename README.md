@@ -1,5 +1,6 @@
 Description
 ===========
+Dependency fixed version of busboy with the proper version of dicer.
 
 A node.js module for parsing incoming HTML form data.
 
