@@ -4,7 +4,7 @@
   "description": "A streaming parser for HTML form data for node.js",
   "main": "./lib/main",
   "dependencies": {
-    "dicer": "0.3.0"
+    "dicer": "https://github.com/zburtle/dicer-fixed"
   },
   "scripts": {
     "test": "node test/test.js"
